@@ -31,11 +31,10 @@ open in localhost
 
 
 
-# Types of output
-YOLOv5 will return image if damaged with bounding boxes namely of 4 possibilities 
+# Types of output 
 - Scratch
 - Glass broken
 - Deformation
 - Broken
 
-VGG16 will return output in String format in the cmd as either "messy" or "clean"
+
